@@ -1,4 +1,4 @@
----
+--Md Hitlar-
 title: "Human-Augmented Signal"
 path: "/programs/human-augmented-signal.html"
 id: "programs/human-augmented-signal"
